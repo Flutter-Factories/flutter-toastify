@@ -11,13 +11,17 @@ and the Flutter guide for
 [developing packages and plugins](https://flutter.dev/developing-packages).
 -->
 
-This package is a clone of the popular [react-toastify](https://fkhadra.github.io/react-toastify/introduction/) library.
+This package is a clone of the famous [react-toastify](https://fkhadra.github.io/react-toastify/introduction/) library.
 
-Motivations: At the time of writing this, existing package for toast offer very limited options and your only fallback are banners and snackbar from material. I wanted to provide an alternative to the existing solutions and porting React-Toastify to Flutter was on my todo list.
+Motivations: At the time of writing this, the existing packages for toast offer minimal options, and your only fallback are banners and the snack bar from the material team. I wanted to provide an alternative to the existing solutions and porting React-Toastify to Flutter was on my to-do list.
 
 This package is in development\*, and might not be used in production until the first stable release is announced.
 
-Please note that I'm currenlty employed full time and this project might take some time to see the light.
+Just so you know, I'm currently employed full time and this project might take some time to see the light.
+
+https://github.com/Flutter-Factories/flutter-toastify/assets/2213079/51b12114-027f-4b9b-a0f4-051421bb0587
+
+
 
 ## Features
 
@@ -41,7 +45,6 @@ start using the package.
 ## Usage
 
 ```dart
-
 void main() {
   runApp(const MyApp());
 }
@@ -106,7 +109,7 @@ class _MyHomePageState extends State<MyHomePage> {
 
 ### Contributions
 
-If you're interrested in development, Pick any missing features get to know how react-toastify works and open a pull request!
+If you're interested in development, Pick any missing features get to know how react-toastify works and open a pull request!
 Or you can simply test the package and participate in development discussions
 
 TODO: Tell users more about the package: where to find more information, how to file issues, what response they can expect
